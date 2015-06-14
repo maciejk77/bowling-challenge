@@ -1,8 +1,4 @@
 describe ('The bowling game', function() {
-
-  // it('can start a game', function(){
-  //   var game = new Game();
-  // });
   
   var game;
 
