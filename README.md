@@ -4,8 +4,8 @@ Bowling Challenge
 
 Learning Objectives
 -------------------
-Creation of fully test driven game engine to provide bowling game scores.
-Technology used: HTML, JavaScript, Jasmine (testing)    
+- Creation of fully test driven game engine to provide bowling game scores.
+- Technology used: HTML, JavaScript, Jasmine (testing)    
 
 Rules 
 -----
